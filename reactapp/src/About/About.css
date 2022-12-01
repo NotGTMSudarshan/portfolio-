@@ -1,0 +1,34 @@
+.aboutme{
+    font-size: .940rem;
+}
+.unor{
+    text-decoration:none;
+ font-size: large;
+}
+.unor{
+    text-decoration:underline;
+}
+
+.leftwrapper1{
+    position:absolute;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: start;
+    margin-left: 600px;
+    margin-top: -39px;
+}
+.rightwrapper1{
+    position:absolute;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: start;
+    margin-left: 300px;
+    margin-top: -154px;
+}
+.image{
+width: 100px;
+border-radius: 50%;
+}
+.section{
+    margin-top: -100px;
+}

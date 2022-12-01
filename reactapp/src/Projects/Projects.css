@@ -1,0 +1,32 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+.section{
+    margin-left: auto;
+    margin-right: auto;
+}
+.section{
+    padding: 7rem 0 2rem ;
+    max-width: 868px;
+
+}
+.section{
+    height: 100vh;
+}
+.divs{
+    text-align: center;
+}
+.atag{
+    color: rgba(32, 32, 223, 0.788);
+    margin: 4px 4px 4px;
+    font-size: 1.4rem;
+}
+.atag2{
+    font-size: 1rem;
+    color: rgba(32, 32, 223, 0.788);
+}
+.h3{
+    font-size: .800rem;
+}

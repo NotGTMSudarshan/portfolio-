@@ -1,0 +1,55 @@
+html{
+    background-color: rgba(15, 17, 27, 0.384);
+}
+.main{
+    font-size: 1.345rem;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul>li{
+    list-style: none;
+}
+a:hover{
+    cursor: pointer;
+}
+.left{
+    flex: 1;
+    align-items: center;
+    display: flex;
+    gap: 1.4rem;
+    padding-left: 233px;
+    font-size: bold;
+}
+.right{
+    display: flex;
+    align-items: center;
+    padding-right: 167px;
+    font-size: bold;
+    font-weight: Light 300 ;
+}
+.list{
+    display: flex;
+    gap: 2rem;
+    margin-right: 4rem;
+}
+
+/*Change button to icon*/
+button{
+    border: none;
+    background: none;
+}
+/* .mode{
+    background: none;
+    font-size: 1rem;
+    color: white;
+    border-radius: 10px;
+}
+.mode:hover{
+    cursor: pointer;
+} */
